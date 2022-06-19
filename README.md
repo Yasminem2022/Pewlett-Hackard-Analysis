@@ -13,7 +13,7 @@ The purpose of this analysis was to build a database to determine who would be r
 ### Mentorship Eligibility
 3. Over 1500 people are elgible for mentorship.
 4. There are very few people eligible to be in the mentorship program compared to the roles that need to be filled.
-![ME](mentorship_eligibility.png)
+![ME](mentorship_eligibilty.png)
 ---
 
 ## Summary
